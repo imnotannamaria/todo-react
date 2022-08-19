@@ -65,7 +65,9 @@ export const TaskForm = styled.form`
     width: 80%;
   }
 
-  @media (max-width: 500px) {
+  @media (max-width: 450px) {
+    width: 90%;
+
     input {
       font-size: 0.8rem;
     }
