@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Todo" src=".github/TODO.png width="100%">
+  <img alt="Todo" src=".github/TODO.png" width="100%">
 </p>
 
 ## ✨ Technologies
